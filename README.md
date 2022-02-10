@@ -1,6 +1,6 @@
 # GeradorDeSenhas2.0
 
-❗ Esse código não foi criado por mim, porém resolvi compartilha-lo com vocês. Código original: https://www.youtube.com/watch?v=ULdrL6fVyts&t=723s
+❗ Esse código não foi criado por mim, porém resolvi compartilha-lo com vocês. O código original está disponível aqui: https://www.youtube.com/watch?v=ULdrL6fVyts&t=723s
 
 
 Formas de contato:
